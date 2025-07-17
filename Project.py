@@ -1,3 +1,5 @@
+# Project for Google using EDGAR API DATA Create Exploratory Data Analysis Including Statistical Summary and Charts for Revenue
+
 # Import required modules
 import requests
 import pandas as pd
