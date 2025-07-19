@@ -1,3 +1,5 @@
+# Code for the Finanical Ratio Analysis & Charts for the Current Ratio; Quick Ratio and D/E Ratio
+# For Company Google 
 
 import requests 
 import pandas as pd 
